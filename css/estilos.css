@@ -1,0 +1,38 @@
+body {
+    background-image: url(https://similimusica.com.br/wp-content/uploads/2018/03/cuidados-e-manutencao-de-contra-baixo-eletrico.jpg);
+    background-size: auto 100vh;
+    font-family: Arial;
+    height: 100vh
+  }
+  
+  .menu {
+    background-color: #FF4500;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #F5F5F5;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-title,
+  .site-subtitle {
+    color: #F5F5F5;
+    text-align: center;
+  }
+  
+  .site-subtitle {
+    font-style: italic;
+  }
